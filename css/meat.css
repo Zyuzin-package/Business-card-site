@@ -1,0 +1,101 @@
+
+.ribayprime{
+    background-image: url(../img/items/meat/Ribay/ribayprime.JPG);
+  }
+  .ribaytopchoise{
+    background-image: url(../img/items/meat/Ribay/ribaytopchoise.JPG);
+  }
+  .ribaychoise{
+    background-image: url(../img/items/meat/Ribay/ribaychoise.JPG);
+  }
+  .striploynprime{
+    background-image: url(../img/items/meat/Striployn/Striployn_prime.jpg);
+  }
+  .striployntopchoise{
+    background-image: url(../img/items/meat/Striployn/Striployn_top_choise.jpg);
+  }
+  .striploynchoise{
+    background-image: url(../img/items/meat/Striployn/Striployn_choise.jpg);
+  }
+  .tomogawk{
+    background-image: url(../img/items/meat/Other/tomogawk.jpg);
+  }
+  .cowboy{
+    background-image: url(../img/items/meat/Other/cowboy.jpg);
+  }
+  .tbone{
+    background-image: url(../img/items/meat/Other/tboy.jpg);
+  }
+  .denwer{
+    background-image: url(../img/items/meat/Other/Denwer.jpg);
+  }
+  .picking{
+    background-image: url(../img/items/meat/Other/picking.jpg);
+  }
+  .flank{
+    background-image: url(../img/items/meat/Other/flank.jpg);
+  }
+  .aychakroll{
+    background-image: url(../img/items/meat/Other/ay-chak-roll.jpg);
+  }
+  .burgerPatties{
+    background-image: url(../img/items/meat/Other/burger-patties.jpg);
+  }
+  .sausages{
+    background-image: url(../img/items/meat/Other/Vyrcer.jpg);
+  }
+  .mincedmarbledbeef{
+    background-image: url(../img/items/meat/Other/Minced-marbled-beef.jpg);
+  }
+  .beefcheeks{
+    background-image: url(../img/items/meat/Other/Beef-cheeks.jpg);
+  }
+  .grillribs{
+    background-image: url(../img/items/meat/Other/Grill-ribs.jpg);
+  }
+  .marbledbeefribs{
+    background-image: url(../img/items/meat/Other/Marbled-beef-ribs.jpg);
+  }
+  .kalbiribs{
+    background-image: url(../img/items/meat/Other/Kalbi-ribs.jpg);
+  }
+  .beeftenderloin{
+    background-image: url(../img/items/meat/Other/beef-tenderloin.jpg);
+  }
+  .minion{
+    background-image: url(../img/items/meat/Other/minion.jpg);
+  }
+  .file{
+    background-image: url(../img/items/meat/Other/file.jpg);
+  }
+  .kareyag{
+    background-image: url(../img/items/meat/Other/kareyag.jpg);
+  }
+  .yagyaz{
+    background-image: url(../img/items/meat/Other/yagyaz.jpg);
+  }
+  .sedloyag{
+    background-image: url(../img/items/meat/Other/sedloyag.jpg);
+  }
+  .bul{
+    background-image: url(../img/items/meat/Other/bul.jpg);
+  }
+  .kup{
+    background-image: url(../img/items/meat/Other/kup.jpg);
+  }
+  .wyrcer{
+    background-image: url(../img/items/meat/Other/bbq.jpg);
+  }
+  .porterhaus{
+    background-image: url(../img/items/meat/Other/porterhaus.jpg);
+  }
+  /*sea*/
+  .loin{
+    background-image: url(../img/items/meat/Other/loin.jpg);
+  }
+  .saku{
+    background-image: url(../img/items/meat/Other/saku.jpg);
+  }
+  .tunec{
+    background-image: url(../img/items/meat/Other/tunec.jpg);
+  }

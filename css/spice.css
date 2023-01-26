@@ -1,0 +1,182 @@
+
+/*IcanCook*/
+.bbqspice{
+    background-image: url(../img/items/spice/icancook/bbq.jpg);
+  }
+  .curry{
+    background-image: url(../img/items/spice/icancook/curry.jpg);
+  }
+  .redwine{
+    background-image: url(../img/items/spice/icancook/redwine.jpg);
+  }
+  .brusnika{
+    background-image: url(../img/items/spice/icancook/brusnika.jpg);
+  }
+  /*SaltLab*/
+  .peru{
+    background-image: url(../img/items/spice/saltlab/peru.jpg);
+  }
+  .chililime{
+    background-image: url(../img/items/spice/saltlab/chili-lime.png);
+  }
+  .adigey{
+    background-image: url(../img/items/spice/saltlab/adigey.png);
+  }
+  .vintagemero{
+    background-image: url(../img/items/spice/saltlab/vintagemerlo.png);
+  }
+  .gimalay{
+    background-image: url(../img/items/spice/saltlab/gimmalayskaya.png);
+  }
+  .kopch{
+    background-image: url(../img/items/spice/saltlab/kopch.png);
+  }
+  .lime{
+    background-image: url(../img/items/spice/saltlab/lime.jpg);
+  }
+  .malinachilli{
+    background-image: url(../img/items/spice/saltlab/malinachilli.png);
+  }
+  .packgimpink{
+    background-image: url(../img/items/spice/saltlab/packgimpink.jpeg);
+  }
+  .packgimpinkperu{
+    background-image: url(../img/items/spice/saltlab/packgimpinkperu.jpeg);
+  }
+  .mansaltmini{
+    background-image: url(../img/items/spice/saltlab/mansaltmini.jpg);
+  }
+  .black{
+    background-image: url(../img/items/spice/saltlab/black.png);
+  }
+  .tomato{
+    background-image: url(../img/items/spice/saltlab/tomato.png);
+  }
+  .shiracha{
+    background-image: url(../img/items/spice/saltlab/shiracha.jpg);
+  }
+  
+  /*cortijo*/
+  .bbqorganic{
+    background-image: url(../img/items/spice/cortijo/bbq.jpg);
+  }
+  .tomatobase{
+    background-image: url(../img/items/spice/cortijo/tomatobase.jpg);
+  }
+  .organic{
+    background-image: url(../img/items/spice/cortijo/organik.jpg);
+  }
+  .past{
+    background-image: url(../img/items/spice/cortijo/past.jpg);
+  }
+  .torganic{
+    background-image: url(../img/items/spice/cortijo/organik2.jpg);
+  }
+  .soup{
+    background-image: url(../img/items/spice/cortijo/soup.jpg);
+  }
+  .tomatofried{
+    background-image: url(../img/items/spice/cortijo/tomatofried.jpg);
+  }
+  
+  /*torres*/
+  .whitemush{
+    background-image: url(../img/items/spice/torres/whitemush.jpg);
+  }
+  .gordal{
+    background-image: url(../img/items/spice/torres/gordal.jpg);
+  }
+  .manzalia{
+    background-image: url(../img/items/spice/torres/manzalia.jpg);
+  }
+  .purgatori{
+    background-image: url(../img/items/spice/torres/purgatori.jpg);
+  }
+  .silencio{
+    background-image: url(../img/items/spice/torres/silencio.jpg);
+  }
+  .karbone{
+    background-image: url(../img/items/spice/torres/karbone.png);
+  }
+  .parelyada{
+    background-image: url(../img/items/spice/torres/parelyada.png);
+  }
+  .silencio{
+    background-image: url(../img/items/spice/torres/silencio.jpg);
+  }
+  /*navarico*/
+  .artishoki1{
+    background-image: url(../img/items/spice/Navarico/artishok1.webp);
+  }
+  .artishoki{
+    background-image: url(../img/items/spice/Navarico/artishok.webp);
+  }
+  .serdcevini{
+    background-image: url(../img/items/spice/Navarico/serdcevini.webp);
+  }
+  .pikilio{
+    background-image: url(../img/items/spice/Navarico/pikilio.webp);
+  }
+  .salcahot{
+    background-image: url(../img/items/spice/Navarico/salcahot.webp);
+  }
+  .salcatomat{
+    background-image: url(../img/items/spice/Navarico/salcatomat.webp);
+  }
+  .salcatumaka{
+    background-image: url(../img/items/spice/Navarico/salcatumaka.webp);
+  }
+  
+  /*tartufi*/
+  .troil{
+    background-image: url(../img/items/spice/tartufi/troil.jpeg);
+  }
+  .oil{
+    background-image: url(../img/items/spice/tartufi/oil.jpg);
+  }
+  .el{
+    background-image: url(../img/items/spice/tartufi/el.jpeg);
+  }
+  .salsaW{
+    background-image: url(../img/items/spice/tartufi/salsaw.jpeg);
+  }
+  .salsaB{
+    background-image: url(../img/items/spice/tartufi/salsab.jpeg);
+  }
+  .briB{
+    background-image: url(../img/items/spice/tartufi/brib.jpeg);
+  }
+  .risB{
+    background-image: url(../img/items/spice/tartufi/risb.jpg);
+  }
+  .briS{
+    background-image: url(../img/items/spice/tartufi/brib.jpeg);
+  }
+  .gim{
+    background-image: url(../img/items/spice/tartufi/gim.jpeg);
+  }
+  .prprtrf{
+    background-image: url(../img/items/spice/tartufi/prprtrf.jpeg);
+  }
+  .taloni{
+    background-image: url(../img/items/spice/tartufi/taloni.jpeg);
+  }
+  .med{
+    background-image: url(../img/items/spice/tartufi/med.jpeg);
+  }
+  .packtr{
+    background-image: url(../img/items/spice/tartufi/packtr.jpg);
+  }
+  .oilM{
+    background-image: url(../img/items/spice/tartufi/oilm.jpeg);
+  }
+  .oilB{
+    background-image: url(../img/items/spice/tartufi/oilb.jpg);
+  }
+  .oilP{
+    background-image: url(../img/items/spice/tartufi/oilp.jpg);
+  }
+  .pesto{
+    background-image: url(../img/items/spice/tartufi/pesto.jpeg);
+  }
+  

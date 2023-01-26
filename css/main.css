@@ -1,0 +1,351 @@
+/*BENDERBAR - 1.0.0*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  background-color: #000;
+  color: #fff;
+  line-height: 1.1;
+  overflow-x:hidden;
+  overflow-y: auto;
+}
+body::-webkit-scrollbar {
+  width: 0;
+}
+a, a:hover {
+  color: #fff;
+}
+
+h3 {
+  font-size:calc(17pt + .15vw);
+}
+.phonenumber{
+  font-size:calc(10pt + .15vw);
+}
+h2{
+  font-size:calc(15pt + .50vw);
+}
+h4{
+  font-size:calc(10pt + .50vw);
+}
+h6{
+  font-size: 15pt;
+}
+p {
+  font-size:calc(9pt + .15vw);
+}
+@media (min-height: 992px) {
+
+}
+@media screen and (max-height: 1280px) { 
+
+} 
+@media screen and (max-height: 1140px) {
+
+} 
+@media screen and (min-height: 700px) { 
+  #map {
+    width: 100%;
+    height: 100%;
+    min-height: 20vh;
+  }
+}
+
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+  font-weight: 400;
+}
+.fw-800 {
+  font-weight: 800;
+}
+.fw-400 {
+  font-weight: 400;
+}
+.fw-600 {
+  font-weight: 500;
+}
+.fw-700 {
+  font-weight: 600;
+}
+.fw-900 {
+  font-weight: 900;
+}
+.fs-09 {
+  font-size: .9em;
+}
+.fs-08 {
+  font-size: .8em;
+}
+.fs-07 {
+  font-size: .7em;
+}
+.fs-06 {
+  font-size: .6em;
+}
+.fs-05 {
+  font-size: .5em;
+}
+.text-underline {
+  text-decoration: underline;
+}
+.ff-m {
+  font-family: 'Montserrat', sans-serif;
+}
+.bg {
+  /*background-image: url(../img/bg.jpg);*/
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+  
+}
+.bg-list{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 95vh;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cheese-bg{
+  background-image: url(../img/items/cheese/Cheese-bg.JPG);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 95vh;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.visible-map{
+  opacity: 0;
+}
+#map {
+  height: 290pt;
+  width: 100%;
+  min-height: 37vh;
+}
+.map-size{
+  height: 800pt;
+  width: 100%;
+}
+.text-black {
+  color: #000 !important;
+}
+.map-zoom-controls {
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+}
+.social {
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+.wrapper {
+  display: flex;  
+  align-items: flex-end;
+}
+.list-item-header{
+  color: rgb(203, 167, 105);
+}
+.align-center{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.logo-size{
+  height: 150px;
+  width: 600px;
+}
+.test{
+  height: 80px;
+  width: 300px;
+}
+.item-img{
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+ }
+/* @media screen and (max-device-width: 2000pt) {
+  .item-img{
+    height: 680px;
+  }
+}
+ @media screen and (max-device-width: 1500pt) {
+  .item-img{
+  height: 680px;
+  }
+}
+@media screen and (max-device-width: 1000pt) {
+  .item-img{
+    height: 630px;
+  }
+}
+@media screen and (max-device-width: 950pt) {
+  .item-img{
+    height: 530px;
+  }
+}
+@media screen and (max-device-width: 800pt) {
+  .item-img{
+    height: 530px;
+  }
+} */
+.text{
+  line-height :1.5;
+  font-size:calc(14px + 3 * (80vw - 120px) / 780);
+}
+.price{
+  font-size:calc(15px + 3 * (100vw - 320px) / 880);
+
+}
+
+.spice-firm-logo-icancook{
+  height: 100pt;
+  width: 100pt;
+  background-image: url(../img/items/spice/logo/icancook.png);
+}
+.spice-firm-logo-capeherb{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/items/spice/logo/capeherb.png);
+}
+.spice-firm-logo-cortijo{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/items/spice/logo/cortijo.png);
+}
+.spice-firm-logo-saltlab{
+  width: 100%;
+  height:100%;
+  background-image: url(../img/items/spice/logo/saltlab.png);
+}
+.scale {
+  display: inline-block; 
+  overflow: hidden; 
+ }
+ .scale img {
+  transition: 1s;
+  display: block; 
+ }
+ .scale img:hover {
+  transform: scale(1.2); 
+ }
+.item-spice-img{
+  background-image: url(../img/items/spice/spice.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vh;
+  width: 50vh;
+}
+.item-meat-img{
+  background-image: url(../img/items/meat/meat.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 25vh;
+  width: 50vh;
+}
+.list-size{
+  height: 370pt;
+  width: 100%;
+  overflow-y: scroll;
+  
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.list-size::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+.ftco-section{
+  justify-content:center;
+  align-items: stretch;
+  overflow: auto;
+  height: 220pt;
+}
+.ftco-section::-webkit-scrollbar {
+  width: 0;
+}
+#btn-main{
+  height: calc(2rem + 1px);
+  width: calc(9rem + 2px);
+  background-color:rgb(198, 48, 62); 
+  border: 1px solid rgb(198, 48, 62); 
+  margin-top: 5pt;
+  margin-bottom: 10px; 
+  border-radius: 50px ;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+
+#btn-mes{
+  margin-top: 5vh;
+  font-size: 13pt;
+}
+
+
+#scrollBtn {
+  display: none; 
+  position: fixed; 
+  top: 0px; 
+  z-index: 99;
+  border: none; 
+  outline: none; 
+ background-color: rgb(0, 0, 0,0.5);
+  color: white;  
+  cursor: pointer; 
+  padding: 15px;
+  border-radius: 0 0 25px 25px;
+  font-size: 18px; 
+  width: 100%;
+  height: 5vh;
+ 
+}
+
+#scrollBtn:hover {
+  transition: 500ms ;
+  background-color: rgb(0, 0, 0); 
+}
+.arrow {
+  width: 4vh;
+  height: 4vh;
+  border-top: 10px solid rgba(190, 2, 2, 0.8);
+  border-right: 10px solid rgba(190, 2, 2, 0.8);
+  margin-right: 60px;
+  transform: rotate(-45deg);   
+}  
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -2;
+  opacity: .45;
+}
+.black-color{
+  background-color: none;
+}
+.black-color::-webkit-scrollbar {
+  width: 0;
+}
