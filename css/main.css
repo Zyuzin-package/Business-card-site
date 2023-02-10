@@ -90,9 +90,7 @@ h6 {
 .fs-05 {
   font-size: .5em;
 }
-.text-underline {
-  text-decoration: underline;
-}
+
 .ff-m {
   font-family: 'Montserrat', sans-serif;
 }
@@ -160,9 +158,7 @@ h6 {
   display: flex;  
   align-items: flex-end;
 }
-.list-item-header{
-  color: rgb(203, 167, 105);
-}
+
 .align-center{
 text-align: center;
 margin-left: auto;
@@ -184,40 +180,30 @@ margin-right: auto;
     background-repeat: no-repeat;
     overflow: hidden;
  }
-/* @media screen and (max-device-width: 2000pt) {
-  .item-img{
-    height: 680px;
-  }
-}
- @media screen and (max-device-width: 1500pt) {
-  .item-img{
-  height: 680px;
-  }
-}
-@media screen and (max-device-width: 1000pt) {
-  .item-img{
-    height: 630px;
-  }
-}
-@media screen and (max-device-width: 950pt) {
-  .item-img{
-    height: 530px;
-  }
-}
-@media screen and (max-device-width: 800pt) {
-  .item-img{
-    height: 530px;
-  }
-} */
+
 .text{
   line-height :1.5;
   font-size:calc(14px + 3 * (80vw - 120px) / 780);
+}
+.text-underline {
+  text-decoration: underline;
+}
+.text-catering{
+  line-height :1.5;
+  font-size:calc(19px + 3 * (80vw - 120px) / 780);
+}
+.text-catering-head{
+  line-height :1.5;
+  font-size:calc(26px + 3 * (80vw - 120px) / 780);
+
 }
 .price{
   font-size:calc(15px + 3 * (100vw - 320px) / 880);
 
 }
-
+.list-item-header{
+  color: rgb(203, 167, 105);
+}
 .spice-firm-logo-icancook{
   height: 100pt;
   width: 100pt;

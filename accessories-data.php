@@ -50,7 +50,7 @@ $xmlstr = <<<XML
             47 см.
             </size>
             <price>
-            25600 р.
+            25 600 р.
             </price>
             <img>
             img/items/accessoires/grills/travel/1.jpg:
@@ -81,7 +81,7 @@ $xmlstr = <<<XML
             57 см.
             </size>
             <price>
-            47100 р.
+            47 100 р.
             </price>
             <img>
             img/items/accessoires/grills/kettle/f0007-sns-kettle-black-0.jpg:
@@ -116,7 +116,7 @@ $xmlstr = <<<XML
             57 см.
             </size>
             <price>
-            49950 р.
+            49 950 р.
             </price>
             <img>
             img/items/accessoires/grills/original/f0007-sns-kettle-original.jpg: 
@@ -150,7 +150,7 @@ $xmlstr = <<<XML
             57 см.
             </size>
             <price>
-            53500 р.
+            53 500 р.
             </price>
             <img>
             img/items/accessoires/grills/deluxe/f0007-sns-kettle-deluxe.jpg: 
@@ -184,7 +184,7 @@ $xmlstr = <<<XML
             57 см.
             </size>
             <price>
-            189000 р.
+            189 000 р.
             </price>
             <img>
             img/items/accessoires/grills/Kamado/keram/gb-f0010-sns-kamado-1.jpg: 
@@ -233,7 +233,7 @@ $xmlstr = <<<XML
             Езё один шаг к комфорту и уровню владения грилем. Перфорированное стальное дно корзины, съемная секция для воды. Deluxe — второе поколение корзин Slow ‘N Sear.
             </description>
             <price>
-            13500 р.
+            13 500 р.
             </price>
             <img>
             img\items\accessoires\accessoires\corb\snsDeluxe\gb-f0001-bask-SnS-Deluxe-1.jpg:
@@ -277,7 +277,7 @@ $xmlstr = <<<XML
             Особая корзина Slow ‘N Sear для грилей Summit Kamado Charcoal от Weber. Приготовление с двумя зонами — теперь и на угольном Summit. Долгий low-n-slow или интенсивный сильный жар. Долгожданная новинка
             </description>
             <price>
-            19700 р.
+            19 700 р.
             </price>
             <img>
             img\items\accessoires\accessoires\corb\snsLowProfileKamado\gb-sns-bask-Low-Profile-1.jpg:
@@ -306,7 +306,7 @@ $xmlstr = <<<XML
             3-в-1. Этот поддон не просто дополняет корзину Slow ‘N Sear. Он дает вам новые возможности — он работает, как дополнение для корзины Slow ‘N Sear, как противень для запекания и как зона для подогрева.
             </description>
             <price>
-                11900 р.
+                11 900 р.
             </price>
             <img>
             img\items\accessoires\accessoires\poddon\snsdropngriddle\gb-f0006-drip-n-grid-1.jpg:
